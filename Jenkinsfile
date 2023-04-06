@@ -1,5 +1,4 @@
 pipeline {
-  def dockerImage
   environment {
     dockerimagename = "rawatshubham138/nodeapp"
     
